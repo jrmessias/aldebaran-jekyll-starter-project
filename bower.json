@@ -1,0 +1,17 @@
+{
+  "name": "aldebaran-jekyll-starter-project",
+  "description": "Aldebaran - Jekyll Starter Project",
+  "main": "",
+  "authors": [
+    "Junior Messias <jrmessias@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

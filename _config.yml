@@ -1,0 +1,35 @@
+# Welcome to Jekyll!
+#
+# ----
+# Site
+
+title: Aldebaran - Jekyll Starter Project
+email: jrmessias@gmail.com
+url: "http://jrmessias.com.br/aldebaran-jekyll-starter-project/"
+slug: aldebaran-jekyll-starter-project
+version: 1.0.0
+baseurl: ""
+google_analytics_key:
+disqus_shortname:
+twitter_username: jrmessias
+github_username:  jrmessias
+description: A starter project for Jekyll, using SASS, Gulp, BrowseSync and anothers npm packages.
+
+#
+# -----
+# Build
+markdown: kramdown
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENCE
+  - node_modules
+  - bower_components
+  - package.json
+  - gulpfile.js
+  - css
+  - js
+  - images
+  - bower.json
